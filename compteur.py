@@ -3,4 +3,4 @@ def compte():
     for i in range(1, 101):
         print(i)
 
-# cela apparaît bien faux, il faut remplacer 100 par 101
+# cela apparaît bien faux, il faut remplacer 100 par 101 😭
